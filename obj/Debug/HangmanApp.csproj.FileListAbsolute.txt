@@ -1,0 +1,6 @@
+D:\diri sendiri\PORTFOLIO PROJECTS\C#\HangmanApp\bin\Debug\HangmanApp.exe.config
+D:\diri sendiri\PORTFOLIO PROJECTS\C#\HangmanApp\bin\Debug\HangmanApp.exe
+D:\diri sendiri\PORTFOLIO PROJECTS\C#\HangmanApp\bin\Debug\HangmanApp.pdb
+D:\diri sendiri\PORTFOLIO PROJECTS\C#\HangmanApp\obj\Debug\HangmanApp.csprojAssemblyReference.cache
+D:\diri sendiri\PORTFOLIO PROJECTS\C#\HangmanApp\obj\Debug\HangmanApp.exe
+D:\diri sendiri\PORTFOLIO PROJECTS\C#\HangmanApp\obj\Debug\HangmanApp.pdb
